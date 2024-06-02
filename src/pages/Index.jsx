@@ -20,7 +20,7 @@ const Index = () => {
     <Container centerContent maxW="container.md" py={8}>
       <VStack spacing={6} width="100%">
         <Text fontSize="3xl" fontWeight="bold">
-          Social Gathering App
+          Motive
         </Text>
 
         <Box width="100%">
